@@ -1,0 +1,31 @@
+# Practical Data Science: Tools for Social Change - Requirements
+
+# Core Data Science Libraries (Beginner-Friendly)
+pandas>=1.5.0
+numpy>=1.21.0
+requests>=2.28.0
+
+# Visualization (Primary Focus)
+plotly>=5.10.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Web Applications (Course Focus)
+streamlit>=1.12.0
+
+# Google Colab Compatibility
+google-colab
+
+# Machine Learning (Simple/Accessible)
+scikit-learn>=1.1.0
+
+# Data Collection
+beautifulsoup4>=4.11.0
+
+# Jupyter Environment (Backup)
+jupyter>=1.0.0
+notebook>=6.4.0
+ipywidgets>=7.7.0
+
+# Development Tools (Optional)
+python-dotenv>=0.20.0
