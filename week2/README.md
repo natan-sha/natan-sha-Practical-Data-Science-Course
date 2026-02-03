@@ -17,12 +17,12 @@ By the end of this week, you will be able to:
 
 ## 🎓 Session Resources 
 
-- Lecture: [Working with DataFrames I: Pandas Foundations]()
+- Lecture: [Working with DataFrames I: Pandas Foundations](https://docs.google.com/presentation/d/1xO8q6gf5XJSkAXlGKrQamCZdWYOfH_vaKmn-nD3zSyk/edit?slide=id.g3c34683c9ad_0_12#slide=id.g3c34683c9ad_0_12)
 
 - Tutorial: [Working with DataFrames I: Pandas Foundations](../week2/notebooks/tutorial_pandas_basics.ipynb)
 ## 🏗️ Mini-Deliverable
 
-**Assignment:** Create a notebook that summarizes key statistics of a real dataset related to social impact.
+**Assignment:** Create a notebook that summarizes key statistics of a real dataset related to social impact (exploratory data nalysis = EDA).
 
 **Requirements:**
 1. **Load a provided dataset** about education, health, or development
