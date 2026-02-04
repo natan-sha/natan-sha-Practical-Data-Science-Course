@@ -4,19 +4,14 @@
 
 ## 🎓 What is this course about?
 
-Applied data science is already shaping how the world tackles pressing social challenges — from fighting discrimination, to allocating resources for refugees, to managing water scarcity in Africa. This course invites students from a wide range of backgrounds — social sciences, policy, business, environmental studies, or anyone simply curious about data — to learn how to use data science tools in ways that matter.
+Applied data science is already shaping how the world tackles pressing social challenges — from fighting discrimination, to allocating resources for refugees, to managing water scarcity. This course invites students from a wide range of backgrounds — social sciences, policy, business, environmental studies, or anyone simply curious about data — to learn how to use data science tools in ways that matter.
 
-Over ten weeks, you'll get hands-on experience with Python in Google Colab (no installation required), organize your work on GitHub, create interactive visualizations with Plotly, and even try your hand at building a simple application in Streamlit. You'll also see how modern AI coding assistants can serve as partners in debugging, exploration, and idea generation.
+Over fifteen weeks, you'll get hands-on experience with Python in Google Colab (no installation required), organize your work on GitHub, create interactive visualizations with Plotly, and even try your hand at building a simple application in Streamlit. You'll also see how modern AI coding assistants can serve as partners in debugging, exploration, and idea generation.
 
 Materials for each week can be found in the `./week*` folders. See README.md for further details and instructions.
 
 Any technical issues, ideas, bugs in course materials, contribution ideas - add an issue.
 
-## 📌 Quick start
-
-Get hands-on with Python in Google Colab (no installation required), organize your work on GitHub, create interactive visualizations with Plotly, and build simple applications in Streamlit. All tools used are free and web-based, with alternatives provided when needed — so you can fully participate from anywhere in the world.
-
-This 10-week course combines lecture and tutorial time each session (~40 min lecture + ~40 min hands-on tutorial), concluding with an individual project where you choose a social issue that matters to you and use data to explore, explain, or propose solutions.
 
 ## 🎯 Learning Outcomes
 
@@ -30,73 +25,21 @@ By the end of the course, you will be able to:
 
 ## � Course Curriculum
 
-**Format:** 1 class per week (80 min)  
-Each of the first 8 sessions: ~40 min lecture + ~40 min tutorial (hands-on in Colab)  
-Week 9: Open office hours for project help  
-Week 10: Capstone showcase
+**Format:** 1 class per week (180 min) 
 
-### [Week 1️⃣ Welcome & First Steps in Python for Data](./week1)
+Each of the first 13 sessions: ~90 min lecture + ~90 min tutorial. Homework is optional except for a mid-term assignments and a capstone project.
 
-**Lecture:** Why data science for social impact? Intro to Python in Google Colab. Basic operations, variables, data types.  
-**Tutorial:** Run your first Colab notebook, write a few lines of Python, practice with lists/dictionaries.  
-**Mini-deliverable:** Colab notebook uploaded to GitHub repo with a short "hello world" exercise.
+Week 14: Open office hours for project help 
 
-### [Week 2️⃣ Working with DataFrames (Pandas Basics)](./week2)
+Week 15: Capstone showcase
 
-**Lecture:** Intro to structured data. Loading CSVs, exploring datasets. Rows, columns, indexing.  
-**Tutorial:** Clean a small dataset (drop NAs, rename columns, simple transforms).  
-**Mini-deliverable:** A notebook summarizing key stats of a real dataset (mean, counts, etc.).
-
-### [Week 3️⃣ Data Visualization with Plotly](./week3)
-
-**Lecture:** Why visualization matters for storytelling. Plotly basics (scatter, bar, line, box).  
-**Tutorial:** Make 2–3 interactive charts to answer simple questions about a dataset.  
-**Mini-deliverable:** At least one polished Plotly chart with titles and labels in your repo.
-
-### [Week 4️⃣ Organizing Projects with GitHub + First Encounter with AI Helpers](./week4)
-
-**Lecture:** GitHub basics: repos, commits, README files. Intro to coding assistants (ChatGPT, Copilot) as debugging and code-explanation partners.  
-**Tutorial:** Create a repo for your project. Commit a cleaned dataset + notebook. Use an LLM to explain a code snippet in plain English.  
-**Mini-deliverable:** A GitHub repo with first project files and README draft.
-
-### [Week 5️⃣ Working with External Data & APIs](./week5)
-
-**Lecture:** Why APIs matter (fresh data, live data sources). Intro to JSON and making API calls in Python.  
-**Tutorial:** Connect to a simple public API (e.g., climate, UN, World Bank), load data into Pandas.  
-**Mini-deliverable:** Notebook that fetches API data and merges it with existing dataset.
-
-### [Week 6️⃣ Intro to Predictive Analytics (without heavy math)](./week6)
-
-**Lecture:** From describing to predicting. Train/test split, decision trees, linear models. Focus on interpretation, not formulas.  
-**Tutorial:** Build a simple predictive model (e.g., predict education outcome from income). Use sklearn.  
-**Mini-deliverable:** Notebook with model results + short written interpretation ("what does this mean?").
-
-### [Week 7️⃣ Automating Workflows with Functions + Using AI to Scale Code](./week7)
-
-**Lecture:** Writing reusable functions. Why automation matters. Prompting AI to generate and refactor code.  
-**Tutorial:** Turn analysis into functions (e.g., def clean_data() or def predict_outcome()). Use an LLM to help restructure the code.  
-**Mini-deliverable:** Script with at least one reusable function + AI-assisted refactor.
-
-### [Week 8️⃣ From Notebooks to Apps (Streamlit Basics)](./week8)
-
-**Lecture:** Why apps matter for social impact. Streamlit basics.  
-**Tutorial:** Create a simple Streamlit app that uploads a CSV and shows a Plotly chart. Deploy locally.  
-**Mini-deliverable:** Local Streamlit app with at least one visualization.
-
-### [Week 9️⃣ Project Office Hours](./week9)
-
-**Format:** Drop-in, Q&A, debugging help, design advice. Students work on their capstone projects.
-
-### [Week 🔟 Final Presentations — Capstone Showcase](./week10)
-
-**Deliverable:** Deployed Streamlit app (on Streamlit Cloud) + GitHub repo with README + 3-minute presentation.  
-**Celebration:** Students present apps that inform, guide, and optimize around their chosen social issue.
 
 ## 🏗️ Capstone Project: Data for Social Impact
 
 Throughout the course, you'll work toward a final individual project where you choose a social issue that matters to you and use data to explore, explain, or propose solutions.
 
 **Your capstone will include:**
+
 • **Data collection** from real-world sources relevant to your chosen issue  
 • **Interactive visualizations** that tell a compelling story  
 • **Predictive analysis** with clear, accessible interpretations  
@@ -110,22 +53,23 @@ Throughout the course, you'll work toward a final individual project where you c
 - Economic inequality and policy impact
 - Social justice and discrimination patterns
 - Global development and humanitarian aid
+- Freedom of speech and censorship
 
 This hands-on approach ensures you gain practical experience while making a meaningful contribution to causes you care about.
 
 ## 💬 Join the community
-
-Connect with experts, engage in discussions, ask questions, and share insights, experiences, and feedback with fellow learners. Stay in the loop — live session announcements will be posted in our community channels!
-
-For updates, you can also subscribe to our newsletter.
+This course can be completed in self-paced mode but currently runs as 1-semester course through Smolny Beyond Borders initiative at Bard College. 
 
 ## 👨‍🏫 Meet our team
 
 This course is created by a team of data science practitioners and researchers dedicated to making data science education accessible and practical:
 
 <!-- Add your team members here -->
-- **Course Lead:** [Your Name]
-- **Contributors:** [Team Members]
+- **Course Lead:** [Anastasiia Kulakova](https://www.linkedin.com/in/anastasiia-kulakova-30704a174/)
+
+- **Educational Institution Partner:** [Smolny Beyond Borders: A Liberal Arts Initiative](https://smolny.org/)
+
+- **Non-profit Partner:**[ Russian Independent Media Archive](https://rima.media/)
 
 ## 🛠️ Prerequisites & Tools
 
@@ -136,6 +80,7 @@ This course is created by a team of data science practitioners and researchers d
 
 ### Tools Used (All Free & Web-Based)
 - **Google Colab**: Python programming environment (no installation needed)
+- **Databricks**: Data environment (no installation needed)
 - **GitHub**: Project organization and version control
 - **Plotly**: Interactive data visualization
 - **Streamlit**: Building and deploying simple web applications
